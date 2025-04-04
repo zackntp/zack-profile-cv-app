@@ -5,7 +5,7 @@ function Image() {
   return (
     <>
     <Box bgcolor='black' width='100%' justifyItems='center' pt='60px'>
-        <Avatar src='/src/assets/zphoto (2).png' sx={{
+        <Avatar src='/src/assets/zphoto_2.png' sx={{
             width:'70%',
             height:'600px',
             borderRadius:5
