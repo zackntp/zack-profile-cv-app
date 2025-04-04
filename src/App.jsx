@@ -1,6 +1,6 @@
 import React from 'react'
 import { CssBaseline } from '@mui/material'
-import Navbar from './component/navbar'
+import Navbar from './component/Navbar'
 import Introduce from './component/introduce'
 import About from './component/about'
 import Capabilities from './component/capabilities'
