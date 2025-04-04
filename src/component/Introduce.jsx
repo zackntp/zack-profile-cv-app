@@ -68,7 +68,7 @@ function Introduce() {
     
          <Grid item mb='50px'>
             <Avatar 
-            src='/src/assets/zphoto.png'
+            src='/src/assets/zphoto (1).png'
             sx={{width:'400px',height:'500px',borderRadius:2}}
             />
          </Grid>
