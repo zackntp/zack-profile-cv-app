@@ -3,7 +3,7 @@ import { Grid,Typography,Button,Box,Avatar} from '@mui/material'
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 
-function About() {
+function AboutMe() {
   return (
     <>
     <Box id='about' bgcolor='black' color='white' pt='60px'>
@@ -80,4 +80,4 @@ function About() {
   )
 }
 
-export default About
+export default AboutMe
